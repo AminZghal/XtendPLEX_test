@@ -29,6 +29,6 @@ Dolly-Zoom/
 └─ haarcascade_eye.xml
 
 pip install opencv-python numpy
-
+python -m venv venv
 python main.py
 
